@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	{"", "~/dotfiles/status_scripts/volume.sh",					      60,		3},
 	{"", "~/dotfiles/status_scripts/wifi.sh",					        60,		2},
 	{"", "~/dotfiles/status_scripts/battery.sh",					    60,		4},
-	{"", "~/dotfiles/status_scripts/calcurse.sh",					    60,		7},
+	{"", "~/dotfiles/status_scripts/khal_week.sh",					  600,	7},
 	{"", "~/dotfiles/status_scripts/date.sh",					        15,		5},
 };
 
